@@ -1,3 +1,3 @@
 ## MiniCloudService
 
-Python script that deploys an app from Github on a single node on AWS. Proper load balancing and scaling was not yet implemented. 
+Python script that deploys a web-app from Github on two nodes on AWS. Proper load balancing and scaling was not yet implemented. 
